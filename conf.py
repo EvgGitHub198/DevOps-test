@@ -10,6 +10,7 @@ project = 'test'
 copyright = '2023, Evgeny198'
 author = 'Evgeny198'
 release = '0.0.1'
+source_dir = '.'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
